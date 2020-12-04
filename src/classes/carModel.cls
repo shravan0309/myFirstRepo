@@ -4,7 +4,7 @@ public class carModel {
     
 	public void car()
     {
-    system.debug('The name of my car is: ' + name + ' ' + model);
+    system.debug('The name of my car is: ' + name + ' ' + model + ' and I like it');
     }
 
 }
